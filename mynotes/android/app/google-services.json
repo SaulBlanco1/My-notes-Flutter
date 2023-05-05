@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605042044574",
+    "project_id": "mynotes-project-flutter-saul",
+    "storage_bucket": "mynotes-project-flutter-saul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605042044574:android:20e9d486885863d89d958f",
+        "android_client_info": {
+          "package_name": "com.BlancoSaulDev.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605042044574-pve61uva2sdgqgkg8ic7pbo22ehc8f6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8ypn9Wh53ikeRBXbzZ2n0h_6tAzWGGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605042044574-pve61uva2sdgqgkg8ic7pbo22ehc8f6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
