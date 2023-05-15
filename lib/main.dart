@@ -46,6 +46,7 @@ class HomePage extends StatelessWidget {
         LoadingScreen().hide();
       }
     }, builder: (context, state) {
+      print('state:' + state.toString());
       if (state is AuthStateLoggedIn) {
         return const NotesView();
       } else if (state is AuthStateNeedsVerification) {

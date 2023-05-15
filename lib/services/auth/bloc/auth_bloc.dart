@@ -36,7 +36,7 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
 
     //initialize
     on<AuthEventInitialize>((event, emit) async {
-      provider.initiliaze();
+      await provider.initiliaze();
       final user = provider.currentUser;
       if (user == null) {
         emit(
